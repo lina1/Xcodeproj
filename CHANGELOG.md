@@ -4,7 +4,9 @@
 
 ##### Enhancements
 
-* None.  
+* Allow parsing `.xcconfig` files that use `${inherited}` with multiple
+  definitions for the same key.  
+  [Samuel Giddins](https://github.com/segiddins)
 
 ##### Bug Fixes
 
